@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust Programming Language" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="Web Assembly [WASM]" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <!---
