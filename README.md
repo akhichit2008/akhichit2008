@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @akhichit2008
-- 👀 I’m interested in Backend and Frontend Web Devlopment, Machine Learning and Competitive programming
+- 👋 <strong>Hello, I’m @akhichit2008</strong>
+- 👀 <strong>I’m interested in Backend and Frontend Web Devlopment, Machine Learning and Competitive programming</strong>
 - 📘 I’m currently learning JAVASCRIPT, Python, C++ and other frontend libraries like Next JS.
 - ## Tools and Languages I use:
 <p align="center">
