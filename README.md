@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akhichit2008
-- [![CodeChef Rating](https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/advaithm582&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/akhicode800725)
+api.herokuapp.com/api/codechef/advaithm582&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/akhicode800725)
 - 👀 I’m interested in Backend and Frontend Web Devlopment, Machine Learning and Competitive programming
 - 📘 I’m currently learning JAVASCRIPT, Python, C++ and other frontend libraries like Next JS.
 - ## Tools and Languages I use:
@@ -12,6 +12,8 @@
  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white" alt="Web Assembly [WASM]" height="40" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node JS" height="40" style="vertical-align:top; margin:4px">
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" style="vertical-align:top; margin:4px">
+ <br/><br/>
+<img src="https://cp-logo.vercel.app/codechef/akhicode800725" style=height:50px;">
  <br/><br/>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhichit2008&theme=tokyonight">
 
