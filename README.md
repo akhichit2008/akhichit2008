@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @akhichit2008
-api.herokuapp.com/api/codechef/advaithm582&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=86400)](https://www.codechef.com/users/akhicode800725)
 - 👀 I’m interested in Backend and Frontend Web Devlopment, Machine Learning and Competitive programming
 - 📘 I’m currently learning JAVASCRIPT, Python, C++ and other frontend libraries like Next JS.
 - ## Tools and Languages I use:
