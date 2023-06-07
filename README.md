@@ -10,6 +10,3 @@ I'm always excited to connect with fellow AI enthusiasts, developers, and resear
 - 📧 Email: akhicodeworld@gmail.com
 - 🐦 Twitter: [@akhileshjc2008](https://twitter.com/yourhandle)
 - 😄 Fun Fact: I love discussing the latest AI trends, so don't hesitate to strike up a conversation!
-- ## Tools and Languages I use:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhichit2008&theme=tokyonight">
