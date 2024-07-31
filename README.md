@@ -7,6 +7,6 @@ Welcome to my GitHub profile! I'm a passionate high school student with a keen i
 
 I'm always excited to connect with fellow AI enthusiasts, developers, and researchers. Feel free to reach out to me through the following channels:
 
-- 📧 Email: akhicodeworld@gmail.com
-- 🐦 Twitter: [@akhileshjc2008](https://twitter.com/yourhandle)
+- 📧 Email: akhileshjc11@gmail.com
+- 🐦 Linkedin: [@AKHILESH_JC](https://in.linkedin.com/in/akhilesh-jeyakumar)
 - 😄 Fun Fact: I love discussing the latest AI trends, so don't hesitate to strike up a conversation!
